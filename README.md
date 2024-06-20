@@ -17,7 +17,7 @@ I am actively seeking new projects and am always eager to discuss potential coll
 ![DBEAVER](https://img.shields.io/badge/DBEAVER-000000?style=for-the-badge&logo=DBEAVER&logoColor=827062)
 
 
-## Follow Me
+## Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=61AFEB)](https://t.me/gusoyn)
 [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=2D64BC)](https://www.linkedin.com/in/toomike/)
