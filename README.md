@@ -1,5 +1,9 @@
 ## About me
 
+I am a Python developer specializing in Django, Django REST Framework (DRF), and FastAPI. I create REST APIs for projects and manage application deployment on servers using orchestration and Docker containers. I also configure CI/CD pipelines using GitHub Actions. In my workflow, I actively use Git, PostgreSQL, and Nginx.
+
+I am actively seeking new projects and am always eager to discuss potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/toomike/) or reach out via [Telegram](https://t.me/gusoyn) to explore how we can work together.
+
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
